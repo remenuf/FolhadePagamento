@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-public class Adm implements {
+public class Adm {
 
     ArrayList<Funcionario> funcionarios = new ArrayList<Funcionario>();
     private Scanner input = new Scanner(System.in);
